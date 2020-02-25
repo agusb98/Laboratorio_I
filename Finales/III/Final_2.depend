@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1578711596 source:c:\users\aguss\desktop\laboratorio\finales\final_3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"entregas.h"
+	"utn.h"
+
+1575291908 c:\users\aguss\desktop\laboratorio\finales\final_3\parser.h
+	"LinkedList.h"
+
+1578351590 c:\users\aguss\desktop\laboratorio\finales\final_3\linkedlist.h
+
+1578711517 c:\users\aguss\desktop\laboratorio\finales\final_3\controller.h
+
+1578710646 c:\users\aguss\desktop\laboratorio\finales\final_3\entregas.h
+
+1575291908 c:\users\aguss\desktop\laboratorio\finales\final_3\utn.h
+
+1578710648 source:c:\users\aguss\desktop\laboratorio\finales\final_3\entregas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"entregas.h"
+	"utn.h"
+
+1578473447 source:c:\users\aguss\desktop\laboratorio\finales\final_3\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1578116510 source:c:\users\aguss\desktop\laboratorio\finales\final_3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"entregas.h"
+
+1575291908 source:c:\users\aguss\desktop\laboratorio\finales\final_3\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1578711606 source:c:\users\aguss\desktop\laboratorio\finales\final_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"entregas.h"
+

@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1578721933 source:c:\users\aguss\desktop\laboratorio\finales\final_4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"empleados.h"
+	"utn.h"
+
+1575291908 c:\users\aguss\desktop\laboratorio\finales\final_4\parser.h
+	"LinkedList.h"
+
+1578722134 c:\users\aguss\desktop\laboratorio\finales\final_4\linkedlist.h
+
+1575291908 c:\users\aguss\desktop\laboratorio\finales\final_4\controller.h
+
+1578715120 c:\users\aguss\desktop\laboratorio\finales\final_4\empleados.h
+
+1575291908 c:\users\aguss\desktop\laboratorio\finales\final_4\utn.h
+
+1578722135 source:c:\users\aguss\desktop\laboratorio\finales\final_4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1578722495 source:c:\users\aguss\desktop\laboratorio\finales\final_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"empleados.h"
+
+1578721229 source:c:\users\aguss\desktop\laboratorio\finales\final_4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"empleados.h"
+
+1575291908 source:c:\users\aguss\desktop\laboratorio\finales\final_4\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1578736900 source:c:\users\aguss\desktop\laboratorio\finales\final_4\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"empleados.h"
+	"utn.h"
+

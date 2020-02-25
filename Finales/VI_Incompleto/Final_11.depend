@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1575291908 source:c:\users\aguss\desktop\laboratorio\finales\final_6_f\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1575291908 c:\users\aguss\desktop\laboratorio\finales\final_6_f\utn.h
+
+1580303618 source:c:\users\aguss\desktop\laboratorio\finales\final_6_f\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1580304461 c:\users\aguss\desktop\laboratorio\finales\final_6_f\linkedlist.h
+
+1582072299 source:c:\users\aguss\desktop\laboratorio\finales\final_6_f\ingredientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"ingredientes.h"
+	"utn.h"
+
+1582073337 c:\users\aguss\desktop\laboratorio\finales\final_6_f\controller.h
+
+1581969298 c:\users\aguss\desktop\laboratorio\finales\final_6_f\ingredientes.h
+
+1582073278 source:c:\users\aguss\desktop\laboratorio\finales\final_6_f\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"ingredientes.h"
+	"recetas.h"
+	"utn.h"
+
+1582072742 c:\users\aguss\desktop\laboratorio\finales\final_6_f\parser.h
+	"LinkedList.h"
+
+1582073361 source:c:\users\aguss\desktop\laboratorio\finales\final_6_f\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"ingredientes.h"
+	"recetas.h"
+
+1582072384 source:c:\users\aguss\desktop\laboratorio\finales\final_6_f\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"ingredientes.h"
+	"recetas.h"
+
+1581970718 c:\users\aguss\desktop\laboratorio\finales\final_6_f\recetas.h
+
+1582072443 source:c:\users\aguss\desktop\laboratorio\finales\final_6_f\recetas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"recetas.h"
+	"utn.h"
+

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="AGUSTIN.BAEZ.NUÑEZ.1G" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/AGUSTIN" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/AGUSTIN" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="cars.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cars.h" />
+		<Unit filename="cliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cliente.h" />
+		<Unit filename="colour.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="colour.h" />
+		<Unit filename="eject.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="eject.h" />
+		<Unit filename="fecha.h" />
+		<Unit filename="job.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="job.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="marca.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="marca.h" />
+		<Unit filename="reports.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="reports.h" />
+		<Unit filename="servis.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="servis.h" />
+		<Unit filename="utn.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

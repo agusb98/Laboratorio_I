@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1580156152 source:c:\users\aguss\desktop\laboratorio\finales\final_7\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1580155584 c:\users\aguss\desktop\laboratorio\finales\final_7\linkedlist.h
+
+1575291908 source:c:\users\aguss\desktop\laboratorio\finales\final_7\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1575291908 c:\users\aguss\desktop\laboratorio\finales\final_7\utn.h
+
+1581674648 source:c:\users\aguss\desktop\laboratorio\finales\final_7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"peliculas.h"
+
+1579007636 c:\users\aguss\desktop\laboratorio\finales\final_7\controller.h
+
+1581675078 c:\users\aguss\desktop\laboratorio\finales\final_7\peliculas.h
+
+1579199928 source:c:\users\aguss\desktop\laboratorio\finales\final_7\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"peliculas.h"
+
+1581674956 source:c:\users\aguss\desktop\laboratorio\finales\final_7\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"peliculas.h"
+	"utn.h"
+
+1578995676 c:\users\aguss\desktop\laboratorio\finales\final_7\parser.h
+	"LinkedList.h"
+
+1580156304 source:c:\users\aguss\desktop\laboratorio\finales\final_7\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"peliculas.h"
+	"utn.h"
+

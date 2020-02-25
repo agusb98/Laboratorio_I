@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1563977162 source:c:\users\whereisagus\desktop\practica sp\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"utn.h"
+
+1563972858 c:\users\whereisagus\desktop\practica sp\linkedlist.h
+
+1561420010 c:\users\whereisagus\desktop\practica sp\utn.h
+
+1564032872 source:c:\users\whereisagus\desktop\practica sp\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Dominio.h"
+	"utn.h"
+
+1561355532 c:\users\whereisagus\desktop\practica sp\parser.h
+	"LinkedList.h"
+
+1561354856 c:\users\whereisagus\desktop\practica sp\controller.h
+
+1564033604 c:\users\whereisagus\desktop\practica sp\dominio.h
+
+1564030582 source:c:\users\whereisagus\desktop\practica sp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Dominio.h"
+
+1564033096 source:c:\users\whereisagus\desktop\practica sp\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Dominio.h"
+
+1562216996 source:c:\users\whereisagus\desktop\practica sp\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+

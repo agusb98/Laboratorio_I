@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1581672216 source:c:\users\aguss\desktop\laboratorio\finales\final_1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"envios.h"
+	"utn.h"
+
+1578995676 c:\users\aguss\desktop\laboratorio\finales\final_1\parser.h
+	"LinkedList.h"
+
+1581670320 c:\users\aguss\desktop\laboratorio\finales\final_1\linkedlist.h
+
+1575291908 c:\users\aguss\desktop\laboratorio\finales\final_1\controller.h
+
+1581671938 c:\users\aguss\desktop\laboratorio\finales\final_1\envios.h
+
+1575291908 c:\users\aguss\desktop\laboratorio\finales\final_1\utn.h
+
+1581670320 source:c:\users\aguss\desktop\laboratorio\finales\final_1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1581670498 source:c:\users\aguss\desktop\laboratorio\finales\final_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"envios.h"
+
+1581672892 source:c:\users\aguss\desktop\laboratorio\finales\final_1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"envios.h"
+
+1581672027 source:c:\users\aguss\desktop\laboratorio\finales\final_1\envios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"envios.h"
+	"utn.h"
+
+1575291908 source:c:\users\aguss\desktop\laboratorio\finales\final_1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1575291908 source:d:\final_1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1575291908 d:\final_1\utn.h
+
+1582127763 source:d:\final_1\computer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"computer.h"
+	"utn.h"
+
+1581670322 d:\final_1\linkedlist.h
+
+1575291908 d:\final_1\controller.h
+
+1582126246 d:\final_1\computer.h
+
+1582125718 source:d:\final_1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"computer.h"
+	"utn.h"
+
+1578995678 d:\final_1\parser.h
+	"LinkedList.h"
+
+1582127215 source:d:\final_1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1582126382 source:d:\final_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"computer.h"
+
+1582125756 source:d:\final_1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"computer.h"
+

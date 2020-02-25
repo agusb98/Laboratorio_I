@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1577302607 source:c:\users\aguss\desktop\final_2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"editorial.h"
+	"utn.h"
+
+1575291908 c:\users\aguss\desktop\final_2\parser.h
+	"LinkedList.h"
+
+1575291908 c:\users\aguss\desktop\final_2\linkedlist.h
+
+1575291908 c:\users\aguss\desktop\final_2\controller.h
+
+1577302764 c:\users\aguss\desktop\final_2\editorial.h
+
+1575291908 c:\users\aguss\desktop\final_2\utn.h
+
+1576498144 source:c:\users\aguss\desktop\final_2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1577303182 source:c:\users\aguss\desktop\final_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"editorial.h"
+
+1577302395 source:c:\users\aguss\desktop\final_2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"editorial.h"
+
+1575291908 source:c:\users\aguss\desktop\final_2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1577303035 source:c:\users\aguss\desktop\final_2\editorial.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"editorial.h"
+	"utn.h"
+
+1581670796 source:c:\users\aguss\desktop\laboratorio\finales\final_2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"editorial.h"
+	"utn.h"
+
+1575291908 c:\users\aguss\desktop\laboratorio\finales\final_2\parser.h
+	"LinkedList.h"
+
+1575291908 c:\users\aguss\desktop\laboratorio\finales\final_2\linkedlist.h
+
+1575291908 c:\users\aguss\desktop\laboratorio\finales\final_2\controller.h
+
+1581671071 c:\users\aguss\desktop\laboratorio\finales\final_2\editorial.h
+
+1575291908 c:\users\aguss\desktop\laboratorio\finales\final_2\utn.h
+
+1581670994 source:c:\users\aguss\desktop\laboratorio\finales\final_2\editorial.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"editorial.h"
+	"utn.h"
+
+1576498144 source:c:\users\aguss\desktop\laboratorio\finales\final_2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1581670564 source:c:\users\aguss\desktop\laboratorio\finales\final_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"editorial.h"
+
+1577302395 source:c:\users\aguss\desktop\laboratorio\finales\final_2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"editorial.h"
+
+1575291908 source:c:\users\aguss\desktop\laboratorio\finales\final_2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+

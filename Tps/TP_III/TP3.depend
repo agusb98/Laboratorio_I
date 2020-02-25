@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1560386480 source:d:\utn\programacion_1\parciales - tps\tp3_2019\tp3\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1560383014 d:\utn\programacion_1\parciales - tps\tp3_2019\tp3\win_64\parser.h
+	"LinkedList.h"
+
+1544221484 d:\utn\programacion_1\parciales - tps\tp3_2019\tp3\win_64\linkedlist.h
+
+1560383058 d:\utn\programacion_1\parciales - tps\tp3_2019\tp3\win_64\controller.h
+
+1560383076 d:\utn\programacion_1\parciales - tps\tp3_2019\tp3\win_64\employee.h
+
+1560382992 source:d:\utn\programacion_1\parciales - tps\tp3_2019\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560382092 source:d:\utn\programacion_1\parciales - tps\tp3_2019\tp3\win_64\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1557518136 d:\utn\programacion_1\parciales - tps\tp3_2019\tp3\win_64\utn.h
+
+1560386566 source:d:\utn\programacion_1\parciales - tps\tp3_2019\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1560397778 source:d:\utn\programacion_1\parciales - tps\tp3_2019\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+	"conio.h"
+
+1572107084 source:e:\programacion_1\parciales - tps (lab)\tps\tp3_2019\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+	"conio.h"
+
+1571650822 e:\programacion_1\parciales - tps (lab)\tps\tp3_2019\tp3\win_64\parser.h
+	"LinkedList.h"
+
+1571650824 e:\programacion_1\parciales - tps (lab)\tps\tp3_2019\tp3\win_64\linkedlist.h
+
+1571650822 e:\programacion_1\parciales - tps (lab)\tps\tp3_2019\tp3\win_64\controller.h
+
+1571650822 e:\programacion_1\parciales - tps (lab)\tps\tp3_2019\tp3\win_64\employee.h
+
+1571650822 e:\programacion_1\parciales - tps (lab)\tps\tp3_2019\tp3\win_64\utn.h
+
+1571650822 source:e:\programacion_1\parciales - tps (lab)\tps\tp3_2019\tp3\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1571650824 source:e:\programacion_1\parciales - tps (lab)\tps\tp3_2019\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1571650822 source:e:\programacion_1\parciales - tps (lab)\tps\tp3_2019\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1571650822 source:e:\programacion_1\parciales - tps (lab)\tps\tp3_2019\tp3\win_64\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+

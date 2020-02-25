@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1580294073 source:c:\users\aguss\desktop\laboratorio\finales\final_8\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"tecnico.h"
+
+1580304461 c:\users\aguss\desktop\laboratorio\finales\final_8\linkedlist.h
+
+1580304313 c:\users\aguss\desktop\laboratorio\finales\final_8\tecnico.h
+
+1575291908 source:c:\users\aguss\desktop\laboratorio\finales\final_8\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1575291908 c:\users\aguss\desktop\laboratorio\finales\final_8\utn.h
+
+1580304450 source:c:\users\aguss\desktop\laboratorio\finales\final_8\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"tecnico.h"
+	"utn.h"
+
+1578995676 c:\users\aguss\desktop\laboratorio\finales\final_8\parser.h
+	"LinkedList.h"
+
+1579007636 c:\users\aguss\desktop\laboratorio\finales\final_8\controller.h
+
+1580303618 source:c:\users\aguss\desktop\laboratorio\finales\final_8\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1580304461 source:c:\users\aguss\desktop\laboratorio\finales\final_8\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"tecnico.h"
+
+1580304814 source:c:\users\aguss\desktop\laboratorio\finales\final_8\tecnico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"tecnico.h"
+	"utn.h"
+

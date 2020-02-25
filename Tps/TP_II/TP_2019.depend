@@ -1,0 +1,238 @@
+# depslib dependency file v1.0
+1554429267 source:c:\users\whereisagus\desktop\parciales - tps\trabajos practicos\tp_2019\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"utn.h"
+	"eject.h"
+
+1552898142 source:c:\users\whereisagus\desktop\parciales - tps\trabajos practicos\tp_2019\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1553059554 c:\users\whereisagus\desktop\parciales - tps\trabajos practicos\tp_2019\utn.h
+
+1554431773 c:\users\whereisagus\desktop\parciales - tps\trabajos practicos\tp_2019\arrayemployees.h
+
+1554433057 source:c:\users\whereisagus\desktop\parciales - tps\trabajos practicos\tp_2019\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"eject.h"
+	"utn.h"
+
+1554435531 source:c:\users\whereisagus\desktop\parciales - tps\trabajos practicos\tp_2019\eject.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"utn.h"
+	"eject.h"
+
+1554430975 c:\users\whereisagus\desktop\parciales - tps\trabajos practicos\tp_2019\eject.h
+	"ArrayEmployees.h"
+
+1554494786 source:c:\users\whereisagus\desktop\parciales - tps\trabajos practicos\tp2_2019\eject.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"utn.h"
+	"eject.h"
+
+1554689225 c:\users\whereisagus\desktop\parciales - tps\trabajos practicos\tp2_2019\arrayemployees.h
+
+1553063154 c:\users\whereisagus\desktop\parciales - tps\trabajos practicos\tp2_2019\utn.h
+
+1554434576 c:\users\whereisagus\desktop\parciales - tps\trabajos practicos\tp2_2019\eject.h
+	"ArrayEmployees.h"
+
+1554495524 source:c:\users\whereisagus\desktop\parciales - tps\trabajos practicos\tp2_2019\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"utn.h"
+	"eject.h"
+
+1552901742 source:c:\users\whereisagus\desktop\parciales - tps\trabajos practicos\tp2_2019\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1554491901 source:c:\users\whereisagus\desktop\parciales - tps\trabajos practicos\tp2_2019\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"eject.h"
+	"utn.h"
+
+1556185665 source:c:\users\whereisagus\desktop\parciales - tps\tp2_2019\eject.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"utn.h"
+	"eject.h"
+
+1555990365 c:\users\whereisagus\desktop\parciales - tps\tp2_2019\arrayemployees.h
+
+1555009768 c:\users\whereisagus\desktop\parciales - tps\tp2_2019\utn.h
+
+1555989919 c:\users\whereisagus\desktop\parciales - tps\tp2_2019\eject.h
+	"ArrayEmployees.h"
+
+1556185113 source:c:\users\whereisagus\desktop\parciales - tps\tp2_2019\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"utn.h"
+	"eject.h"
+
+1555009768 source:c:\users\whereisagus\desktop\parciales - tps\tp2_2019\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1556185776 source:c:\users\whereisagus\desktop\parciales - tps\tp2_2019\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"eject.h"
+	"utn.h"
+
+1555374549 source:c:\users\alumno\downloads\tp_laboratorio_2-master\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"eject.h"
+	"utn.h"
+
+1555374098 c:\users\alumno\downloads\tp_laboratorio_2-master\arrayemployees.h
+
+1555374235 c:\users\alumno\downloads\tp_laboratorio_2-master\eject.h
+	"ArrayEmployees.h"
+
+1555009768 c:\users\alumno\downloads\tp_laboratorio_2-master\utn.h
+
+1555374119 source:c:\users\alumno\downloads\tp_laboratorio_2-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"utn.h"
+	"eject.h"
+
+1555009768 source:c:\users\alumno\downloads\tp_laboratorio_2-master\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1555374520 source:c:\users\alumno\downloads\tp_laboratorio_2-master\eject.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"utn.h"
+	"eject.h"
+
+1555374120 source:e:\tp_laboratorio_2-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"utn.h"
+	"eject.h"
+
+1555374100 e:\tp_laboratorio_2-master\arrayemployees.h
+
+1555009768 e:\tp_laboratorio_2-master\utn.h
+
+1555374236 e:\tp_laboratorio_2-master\eject.h
+	"ArrayEmployees.h"
+
+1555009768 source:e:\tp_laboratorio_2-master\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1557190582 source:e:\utn\programacion_1\parciales - tps\tp2_2019\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"eject.h"
+	"utn.h"
+
+1556568124 e:\utn\programacion_1\parciales - tps\tp2_2019\arrayemployees.h
+
+1555989920 e:\utn\programacion_1\parciales - tps\tp2_2019\eject.h
+	"ArrayEmployees.h"
+
+1556889856 e:\utn\programacion_1\parciales - tps\tp2_2019\utn.h
+
+1556185666 source:e:\utn\programacion_1\parciales - tps\tp2_2019\eject.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"utn.h"
+	"eject.h"
+
+1557190284 source:e:\utn\programacion_1\parciales - tps\tp2_2019\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"utn.h"
+	"eject.h"
+
+1556890964 source:e:\utn\programacion_1\parciales - tps\tp2_2019\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1557190582 source:d:\utn\programacion_1\parciales - tps\tp2_2019\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"eject.h"
+	"utn.h"
+
+1556568124 d:\utn\programacion_1\parciales - tps\tp2_2019\arrayemployees.h
+
+1555989920 d:\utn\programacion_1\parciales - tps\tp2_2019\eject.h
+	"ArrayEmployees.h"
+
+1556889856 d:\utn\programacion_1\parciales - tps\tp2_2019\utn.h
+
+1557190644 source:d:\utn\programacion_1\parciales - tps\tp2_2019\eject.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"utn.h"
+	"eject.h"
+
+1557190284 source:d:\utn\programacion_1\parciales - tps\tp2_2019\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"utn.h"
+	"eject.h"
+
+1556890964 source:d:\utn\programacion_1\parciales - tps\tp2_2019\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+

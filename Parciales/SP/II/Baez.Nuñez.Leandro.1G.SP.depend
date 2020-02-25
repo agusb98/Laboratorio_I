@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1561421545 source:c:\users\alumno\desktop\baez.nuñez.leandro.1g.sp\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Dominio.h"
+	"utn.h"
+
+1561355532 c:\users\alumno\desktop\baez.nuñez.leandro.1g.sp\parser.h
+	"LinkedList.h"
+
+1561417821 c:\users\alumno\desktop\baez.nuñez.leandro.1g.sp\linkedlist.h
+
+1561354856 c:\users\alumno\desktop\baez.nuñez.leandro.1g.sp\controller.h
+
+1561355936 c:\users\alumno\desktop\baez.nuñez.leandro.1g.sp\employee.h
+
+1561420009 c:\users\alumno\desktop\baez.nuñez.leandro.1g.sp\utn.h
+
+1561421457 source:c:\users\alumno\desktop\baez.nuñez.leandro.1g.sp\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Dominio.h"
+	"utn.h"
+
+1561419028 source:c:\users\alumno\desktop\baez.nuñez.leandro.1g.sp\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Dominio.h"
+
+1561420052 source:c:\users\alumno\desktop\baez.nuñez.leandro.1g.sp\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1561419176 source:c:\users\alumno\desktop\baez.nuñez.leandro.1g.sp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Dominio.h"
+
+1561419176 c:\users\alumno\desktop\baez.nuñez.leandro.1g.sp\dominio.h
+
+1561422041 source:c:\users\alumno\desktop\baez.nuñez.leandro.1g.sp\dominio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Dominio.h"
+	"utn.h"
+
+1562894938 source:d:\utn\programacion_1\parciales - tps\sp_laboratorio\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Dominio.h"
+	"utn.h"
+
+1561355532 d:\utn\programacion_1\parciales - tps\sp_laboratorio\parser.h
+	"LinkedList.h"
+
+1562289830 d:\utn\programacion_1\parciales - tps\sp_laboratorio\linkedlist.h
+
+1561354856 d:\utn\programacion_1\parciales - tps\sp_laboratorio\controller.h
+
+1562897086 d:\utn\programacion_1\parciales - tps\sp_laboratorio\dominio.h
+
+1561420010 d:\utn\programacion_1\parciales - tps\sp_laboratorio\utn.h
+
+1562897128 source:d:\utn\programacion_1\parciales - tps\sp_laboratorio\dominio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Dominio.h"
+	"utn.h"
+
+1562896008 source:d:\utn\programacion_1\parciales - tps\sp_laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Dominio.h"
+
+1562302506 source:d:\utn\programacion_1\parciales - tps\sp_laboratorio\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Dominio.h"
+
+1562216996 source:d:\utn\programacion_1\parciales - tps\sp_laboratorio\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1562289848 source:d:\utn\programacion_1\parciales - tps\sp_laboratorio\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Dominio.h"
+	"utn.h"
+

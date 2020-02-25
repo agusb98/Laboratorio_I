@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1578707348 source:c:\users\aguss\desktop\laboratorio\finales\final_5\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"clientes.h"
+	"utn.h"
+
+1575291908 c:\users\aguss\desktop\laboratorio\finales\final_5\parser.h
+	"LinkedList.h"
+
+1578697558 c:\users\aguss\desktop\laboratorio\finales\final_5\linkedlist.h
+
+1578699870 c:\users\aguss\desktop\laboratorio\finales\final_5\controller.h
+
+1578707187 c:\users\aguss\desktop\laboratorio\finales\final_5\clientes.h
+
+1575291908 c:\users\aguss\desktop\laboratorio\finales\final_5\utn.h
+
+1578697503 source:c:\users\aguss\desktop\laboratorio\finales\final_5\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1578709230 source:c:\users\aguss\desktop\laboratorio\finales\final_5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"clientes.h"
+
+1578644072 source:c:\users\aguss\desktop\laboratorio\finales\final_5\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"clientes.h"
+
+1575291908 source:c:\users\aguss\desktop\laboratorio\finales\final_5\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1578707310 source:c:\users\aguss\desktop\laboratorio\finales\final_5\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"clientes.h"
+	"utn.h"
+
+1575291908 source:c:\users\aguss\desktop\laboratorio\finales\final_5_f\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1575291908 c:\users\aguss\desktop\laboratorio\finales\final_5_f\utn.h
+
+1581965459 source:c:\users\aguss\desktop\laboratorio\finales\final_5_f\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"clientes.h"
+	"utn.h"
+
+1580304461 c:\users\aguss\desktop\laboratorio\finales\final_5_f\linkedlist.h
+
+1581054208 c:\users\aguss\desktop\laboratorio\finales\final_5_f\controller.h
+
+1581254787 c:\users\aguss\desktop\laboratorio\finales\final_5_f\clientes.h
+
+1580303618 source:c:\users\aguss\desktop\laboratorio\finales\final_5_f\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1581966273 source:c:\users\aguss\desktop\laboratorio\finales\final_5_f\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"clientes.h"
+	"abonos.h"
+	"utn.h"
+
+1578995676 c:\users\aguss\desktop\laboratorio\finales\final_5_f\parser.h
+	"LinkedList.h"
+
+1581965866 source:c:\users\aguss\desktop\laboratorio\finales\final_5_f\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"clientes.h"
+	"abonos.h"
+
+1581096696 source:c:\users\aguss\desktop\laboratorio\finales\final_5_f\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"clientes.h"
+	"abonos.h"
+
+1581099218 source:c:\users\aguss\desktop\laboratorio\finales\final_5_f\abonos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"abonos.h"
+	"clientes.h"
+	"utn.h"
+
+1581099132 c:\users\aguss\desktop\laboratorio\finales\final_5_f\abonos.h
+

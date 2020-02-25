@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1580385514 source:c:\users\aguss\desktop\laboratorio\finales\final_10\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"dominios.h"
+	"utn.h"
+
+1578995676 c:\users\aguss\desktop\laboratorio\finales\final_10\parser.h
+	"LinkedList.h"
+
+1580304461 c:\users\aguss\desktop\laboratorio\finales\final_10\linkedlist.h
+
+1580383684 c:\users\aguss\desktop\laboratorio\finales\final_10\controller.h
+
+1580386116 c:\users\aguss\desktop\laboratorio\finales\final_10\dominios.h
+
+1575291908 c:\users\aguss\desktop\laboratorio\finales\final_10\utn.h
+
+1580303618 source:c:\users\aguss\desktop\laboratorio\finales\final_10\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1580385983 source:c:\users\aguss\desktop\laboratorio\finales\final_10\dominios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"dominios.h"
+	"utn.h"
+
+1580385653 source:c:\users\aguss\desktop\laboratorio\finales\final_10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"dominios.h"
+
+1575291908 source:c:\users\aguss\desktop\laboratorio\finales\final_10\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1580385676 source:c:\users\aguss\desktop\laboratorio\finales\final_10\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"dominios.h"
+

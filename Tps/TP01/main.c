@@ -5,6 +5,10 @@
 
 int main()
 {
+
+    printf("hola feo");
+    return 0;
+
     int exit=0, flag1=0, flag2=0;
     float num1=0, num2=0;
 

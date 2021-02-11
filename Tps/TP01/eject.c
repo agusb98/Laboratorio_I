@@ -12,10 +12,8 @@
  *
  */
 
-int principalMain(float num1, float num2)
-{
+int principalMain(float num1, float num2){
     system("cls");
-
     printf(">>Menu de Opciones\n");
     printf("\n1_ Ingresar 1er operando (A = %.1f)", num1);
     printf("\n2_ Ingresar 2do operando (B = %.1f)", num2);
@@ -24,8 +22,7 @@ int principalMain(float num1, float num2)
     printf("\n5_ Salir");
 
     fflush(stdin);
-    int opt = getInt("\n\nIngrese opcion: ");
-    return opt;
+    return getInt("\n\nIngrese opcion: ");
 }
 
 /** \brief Print kind of calculates that programme is able to do

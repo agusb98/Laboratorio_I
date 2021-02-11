@@ -1,31 +1,23 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <limits.h>
 #include "eject.h"
 #include "utn.h"
 
-int main()
-{
-
-    printf("hola feo");
-    return 0;
-
+int main(){
     int exit=0, flag1=0, flag2=0;
     float num1=0, num2=0;
 
-    do
-    {
-        switch(principalMain(num1, num2))
-        {
+    do{
+        switch(principalMain(num1, num2)){
         case 1:
-            if (!getValidFloat("1er Operando: ", "Fuera de Rango\n", &num1, -99999999, 99999999, 3))
-            {
+            if (!getValidFloat("1er Operando: ", "Fuera de Rango\n", &num1, INT_MIN, INT_MAX, 3)){
                 flag1=1;
                 printf("Numero Ingresado correctamente\n\n");
             }
             break;
         case 2:
-            if (!getValidFloat("2do Operando: ", "Fuera de Rango\n", &num2, -99999999, 99999999, 3))
-            {
+            if (!getValidFloat("2do Operando: ", "Fuera de Rango\n", &num2, INT_MIN, INT_MAX, 3)){
                 flag2=1;
                 printf("Numero Ingresado correctamente\n\n");
                 break;

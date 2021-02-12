@@ -26,13 +26,13 @@ int main(){
             if (flag1 && flag2)
                 calculate_operations(num1, num2);
             else
-                    printf("Ingrese Operador\n");
+                printf("Ingrese Operador\n");
             break;
         case 4:
             if (flag1 && flag2)
-                    report_operations(num1, num2);
+                report_operations(num1, num2);
             else
-                    printf("Ingrese Operador\n");
+                printf("Ingrese Operador\n");
             break;
         case 5:
             exit=1;

@@ -1,7 +1,7 @@
-#ifndef UTN_H_INCLUDED
-#define UTN_H_INCLUDED
+#ifndef VALIDACION_H_INCLUDED
+#define VALIDACION_H_INCLUDED
 
-#endif // UTN_H_INCLUDED
+#endif // VALIDACION_H_INCLUDED
 
 int getInt(char* mensaje);
 float getFloat(char* mensaje);

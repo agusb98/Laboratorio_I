@@ -7,11 +7,12 @@ int main(){
     float max = INT_MIN;
     float num;
     int len = 5;
-    
+
     printf("MAXIMO Y MINIMO\n\n");
 /*
     for (int i = 0; i < len; i++){
         printf("Ingrese numero: ");
+        fflush(stdout);
         scanf("%f", &num);
 
         if(num > max){
@@ -26,20 +27,22 @@ int main(){
 
     do{
         printf("Ingrese numero: ");
+        fflush(stdout);
         scanf("%f", &num);
 
         if(num > max){
             max = num;
         }
-        else if(num < min){
+        if(num < min){
             min = num;
         }
 
         printf("Continuar? (1 or 0): ");
+        fflush(stdout);
         scanf("%d", &status);
     } while (status == 1);
-    
-    printf("\nMaximo: %1.f - Minimo: %1.f", max, min);
-    
+
+    printf("\n ** Maximo: %1.f - Minimo: %1.f ** ", max, min);
+
     return EXIT_SUCCESS;
 }

@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "validacion.h"
 
 float Suma(float a, float b){
     return a + b;

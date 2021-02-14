@@ -59,8 +59,7 @@ char getChar(char* mensaje)
  */
 char getNumeroAleatorio(int desde, int hasta, int iniciar)
 {
-    if(iniciar)
-        srand (time(NULL));
+    if(iniciar){ srand (time(NULL)); }
     return desde + (rand() % (hasta + 1 - desde)) ;
 }
 
@@ -136,7 +135,7 @@ int esSoloLetras(char str[])
     while(str[i] != '\0')
     {
         if((str[i] != ' ') && (str[i] < 'a' || str[i] > 'z') && (str[i] < 'A' || str[i] > 'Z'))
-            return 0;
+            {return 0;}
         i++;
     }
     return 1;
@@ -278,19 +277,16 @@ int getValidInt(char requestMessage[],char errorMessage[], int* input,int lowLim
             printf ("%s",errorMessage);
             break;
             continue;
-
         }
         auxInt = atoi(auxStr);
         if(auxInt < lowLimit || auxInt > hiLimit)
         {
             printf ("%s",errorMessage);
             continue;
-
         }
         *input = auxInt;
         retorno = 0;
         break;
-
     }
     return retorno;
 
@@ -325,7 +321,6 @@ int getValidString(char requestMessage[],char errorMessage[], char errorMessageL
         {
             printf ("%s",errorMessageLenght);
             continue;
-
         }
         retorno=0;
         strcpy(input,buffer);
@@ -358,14 +353,12 @@ int getValidFloat(char requestMessage[],char errorMessage[], float* input,float 
             printf ("%s",errorMessage);
             break;
             continue;
-
         }
         auxInt = atof(auxStr);
         if(auxInt < lowLimit || auxInt > hiLimit)
         {
             printf ("%s",errorMessage);
             continue;
-
         }
         *input = auxInt;
         retorno = 0;
@@ -373,7 +366,6 @@ int getValidFloat(char requestMessage[],char errorMessage[], float* input,float 
 
     }
     return retorno;
-
 }
 
 /**
@@ -393,8 +385,7 @@ int getValidDate(int* day, int* month, int* year)
         if(!flag)
         {
             flag = getValidInt("\nAnio de ingreso: ","\nNo es un anio valido\n", year,1950,2018,3);
-            if(!flag)
-                return 1;
+            if(!flag) {return 1;}
         }
     }
     return 0;
@@ -444,8 +435,6 @@ int confirmation(void)
     char letra = getChar("\nConfirmar ejecucion (s/n): ");
     esSoloLetras(&letra);
 
-    if (letra == 's' || letra == 'S')
-        return 1;
-
+    if (letra == 's' || letra == 'S') {return 1;}
     return 0;
 }

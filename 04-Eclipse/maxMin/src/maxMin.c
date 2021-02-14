@@ -6,7 +6,7 @@ int main(){
     float min = INT_MAX;
     float max = INT_MIN;
     float num;
-    int len = 5;
+    //int len = 5;
 
     printf("MAXIMO Y MINIMO\n\n");
 /*
